@@ -86,7 +86,7 @@ body{
     overflow-x: hidden;
     margin-top: 80px
 }
-.caraousel {
+.carousel {
     display: flex;
     width: 92%;
     height: 100%;
